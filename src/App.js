@@ -233,7 +233,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>Rock Analyzer</h1>
-        <p>Upload a rock image to analyze its properties or enter details manually</p>
+        <p>Upload a rock image to analyze its properties</p>
       </header>
 
       <main className="App-main">
